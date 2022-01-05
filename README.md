@@ -1,8 +1,7 @@
 ### Oiee! Eu sou o Samuel Serra ☂   
 
-- 🌱 Estudando JavaScript e seus frameworks e Python
+- 🌱 Desenvolvedor Front-End, porém estudante de Back-End
 - 📫 sserradev@gmail.com
-- ⚡ Dont Spik
 
 <div align="left">
   <a href="https://github.com/sserra16">
