@@ -1,6 +1,6 @@
 ### Oiee! Eu sou o Samuel Serra ☂   
 
-- 🌱 Desenvolvedor Front-End, porém estudante de Back-End
+- 🌱 Desenvolvedor Full-Stack
 - 📫 sserradev@gmail.com
 
 <div align="left">
