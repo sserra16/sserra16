@@ -1,4 +1,4 @@
-### Oiee! Eu sou o Samuel Serra ☂   
+### Olá! Eu sou o Samuel Serra ☂   
 
 - 🌱 Desenvolvedor Full-Stack
 - 📫 sserradev@gmail.com
