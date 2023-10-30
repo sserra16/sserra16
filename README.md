@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Samuel Serra ☂   
 
-- 🌱 Desenvolvedor Full-Stack
+- 🌱 Desenvolvedor Web
 - 📫 sserradev@gmail.com
 
 <div align="left">
